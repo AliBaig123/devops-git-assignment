@@ -1,2 +1,2 @@
-echo "starting Devops Application"
+echo "starting DEVOPS Application"
 echo "Logging Enabled"
